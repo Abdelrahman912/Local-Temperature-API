@@ -2,7 +2,7 @@
 	stylesheet for weather app
 */
 body {
-    background-image: url("../resources/fogg-coffee-break.png");
+    background-image: url("../resources/scene.jpg");
 
     min-height: 100vh;
     background-size: auto;
@@ -25,7 +25,7 @@ body {
 
 /* navbar */
 .navbar {
-    background-color: rgb(69, 106, 171);
+    background-color: rgb(139, 142, 145, 0.5);
 }
 
 .navbar a {
